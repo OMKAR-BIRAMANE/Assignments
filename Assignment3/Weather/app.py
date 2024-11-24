@@ -26,3 +26,4 @@ if city:
         st.write(f"**Feels Like**: {feels_like}°C")
     else:
         st.error("City not found or invalid API response.")
+    
